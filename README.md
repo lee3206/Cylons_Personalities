@@ -31,4 +31,4 @@ python -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=tf_fil
 
 You should get a return that the robot is 100% robotic
 
-
+Add your own pictures to that directory to see if they are cylons or not
