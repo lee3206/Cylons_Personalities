@@ -16,7 +16,7 @@ pip install --upgrade "tensorflow==1.7.*"
 
 git clone https://github.com/lee3206/Cylons_Personalities/tree/master/Cylon%20detector
 
-cd wherever you cloned that\"cylon detector"\tf_files
+cd wherever you cloned that\"cylon detector"
 
 python -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=tf_files/42b.jpg
 ~~~
